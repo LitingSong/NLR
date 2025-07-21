@@ -1,5 +1,5 @@
-hub myHubName
-shortLabel My Custom Tracks
-longLabel My custom genomic tracks for RNA-seq and ATAC-seq
+hub CAD
+shortLabel CAD
+longLabel bigwig tracks for ATAC-seq
 genomesFile genomes.txt
-email yourname@example.com
+email song.liting1993@gmail.com
