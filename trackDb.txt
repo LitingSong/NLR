@@ -1,3 +1,11 @@
+track SNP
+shortLabel SNP
+longLabel SNP
+type bed 4
+visibility dense
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135edb0ea2575fb6c85/display?to_ext=interval
+
+
 track T/NK
 type bigWig
 shortLabel T/NK
@@ -190,11 +198,11 @@ maxHeightPixels 100:20:20
 
 
 
-track exampleInteractTrack
+track InteractTrack
 type bigInteract
 visibility full
-shortLabel exInteract
-longLabel Example interact track
+shortLabel scE2G
+longLabel scE2G
 itemRgb on
 scoreMin 175
 maxHeightPixels 300:150:20
