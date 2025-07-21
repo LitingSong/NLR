@@ -1,0 +1,6 @@
+track signalTrack
+type bigWig
+shortLabel RNA Signal
+longLabel RNA-seq signal from donor A
+visibility full
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213534989da7da1f2c8c/display?to_ext=bigwig
