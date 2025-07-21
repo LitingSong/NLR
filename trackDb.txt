@@ -192,7 +192,7 @@ type bigInteract
 shortLabel Peak-Gene
 longLabel Peak-to-Gene interactions
 visibility pack
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c36d6fc07614d35f/display?to_ext=interval
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358c2f99795a614557/display?to_ext=interval
 interactTrackHeight 300
 maxHeightPixels 300:40:20
 useScore 1
