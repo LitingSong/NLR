@@ -187,11 +187,15 @@ autoScale off
 viewLimits 0:10
 maxHeightPixels 100:20:20
 
+
+
+
 track peakGeneInteract
-type bigInteract
+type interact
 shortLabel Peak-Gene
 longLabel Peak-to-Gene interactions
 visibility pack
+interactFormat auto
 bigDataUrl https://raw.githubusercontent.com/LitingSong/NLR/refs/heads/main/sce2g_target.bed
 interactTrackHeight 300
 maxHeightPixels 300:40:20
