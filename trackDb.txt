@@ -20,7 +20,7 @@ autoScale off
 viewLimits 0:50
 maxHeightPixels 100:50:20
 
-track Type II Myocytes
+track TypeIIMyocytes
 type bigWig
 shortLabel Type II Myocytes
 longLabel Type II Myocytes
@@ -31,7 +31,7 @@ autoScale off
 viewLimits 0:50
 maxHeightPixels 100:50:20
 
-track Type I Myocytes
+track TypeIMyocytes
 type bigWig
 shortLabel Type I Myocytes
 longLabel Type I Myocytes
@@ -53,7 +53,7 @@ autoScale off
 viewLimits 0:50
 maxHeightPixels 100:50:20
 
-track Myosatellite cells
+track Myosatellitecells
 type bigWig
 shortLabel Myosatellite cells
 longLabel Myosatellite cells
@@ -64,7 +64,7 @@ autoScale off
 viewLimits 0:50
 maxHeightPixels 100:50:20
 
-track Mesothelial cells
+track Mesothelialcells
 type bigWig
 shortLabel Mesothelial cells
 longLabel Mesothelial cells
@@ -87,7 +87,7 @@ autoScale off
 viewLimits 0:50
 maxHeightPixels 100:50:20
 
-track Hepatic stellate cells
+track Hepaticstellatecells
 type bigWig
 shortLabel Hepatic stellate cells
 longLabel Hepatic stellate cells
@@ -120,7 +120,7 @@ autoScale off
 viewLimits 0:50
 maxHeightPixels 100:50:20
 
-track Endothelial cells
+track Endothelialcells
 type bigWig
 shortLabel Endothelial cells
 longLabel Endothelial cells
@@ -142,7 +142,7 @@ autoScale off
 viewLimits 0:50
 maxHeightPixels 100:50:20
 
-track B/plasma cells
+track B/plasmacells
 type bigWig
 shortLabel B/plasma cells
 longLabel B/plasma cells
@@ -164,7 +164,7 @@ autoScale off
 viewLimits 0:50
 maxHeightPixels 100:50:20
 
-track Adipocyte progenitors
+track Adipocyteprogenitors
 type bigWig
 shortLabel Adipocyte progenitors
 longLabel Adipocyte progenitors
