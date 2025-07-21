@@ -187,3 +187,13 @@ autoScale off
 viewLimits 0:10
 maxHeightPixels 100:20:20
 
+track peakGeneInteract
+type bigInteract
+shortLabel Peak-Gene
+longLabel Peak-to-Gene interactions
+visibility pack
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c36d6fc07614d35f/display?to_ext=interval
+interactTrackHeight 300
+maxHeightPixels 300:40:20
+useScore 1
+
