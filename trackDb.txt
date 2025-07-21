@@ -191,7 +191,7 @@ maxHeightPixels 100:20:20
 
 
 track peakGeneInteract
-type interact
+type bigInteract
 shortLabel Peak-Gene
 longLabel Peak-to-Gene interactions
 visibility pack
