@@ -192,7 +192,7 @@ type bigInteract
 shortLabel Peak-Gene
 longLabel Peak-to-Gene interactions
 visibility pack
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358c2f99795a614557/display?to_ext=interval
+bigDataUrl https://raw.githubusercontent.com/LitingSong/NLR/refs/heads/main/sce2g_target.inter.bb
 interactTrackHeight 300
 maxHeightPixels 300:40:20
 useScore 1
