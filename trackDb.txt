@@ -1,6 +1,25 @@
-track signalTrack
+track rnaSignalGroup
+container multiWig
+shortLabel RNA Group
+longLabel RNA-seq signal for multiple donors
 type bigWig
-shortLabel RNA Signal
-longLabel RNA-seq signal from donor A
 visibility full
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213534989da7da1f2c8c/display?to_ext=bigwig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+autoScale off
+viewLimits 0:50
+maxHeightPixels 100:50:20
+
+    track sample1
+    parent rnaSignalGroup
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213534989da7da1f2c8c/display?to_ext=bigwig
+    shortLabel Donor A
+    longLabel RNA-seq donor A
+    color 0,0,255
+
+    track sample2
+    parent rnaSignalGroup
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352723ff967c5fadc7/display?to_ext=bigwig
+    shortLabel Donor B
+    longLabel RNA-seq donor B
+    color 255,0,0
