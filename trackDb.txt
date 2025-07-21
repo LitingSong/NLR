@@ -1,7 +1,7 @@
 track SNP
 shortLabel SNP
 longLabel SNP
-type bed
+type bigBed
 visibility dense
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213566c9ea61c11af9ab/display?to_ext=bigbed
 
