@@ -198,4 +198,4 @@ longLabel Example interact track
 spectrum on
 scoreMin 175
 maxHeightPixels 300:150:20
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fefe395b16705c66/display?to_ext=bigbed
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fb736df4c36ea0f9/display?to_ext=bigbed
