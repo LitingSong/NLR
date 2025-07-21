@@ -1,9 +1,9 @@
 track SNP
 shortLabel SNP
 longLabel SNP
-type bed 6
+type bed
 visibility dense
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350d0b3a8ecd338eee/display?to_ext=bed
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213566c9ea61c11af9ab/display?to_ext=bigbed
 
 track T/NK
 type bigWig
