@@ -190,14 +190,12 @@ maxHeightPixels 100:20:20
 
 
 
-track peakGeneInteract
+track exampleInteractTrack
 type bigInteract
-shortLabel Peak-Gene
-longLabel Peak-to-Gene interactions
-visibility pack
-interactFormat auto
+visibility full
+shortLabel exInteract
+longLabel Example interact track
+spectrum on
+scoreMin 175
+maxHeightPixels 300:150:20
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c677907af75f7f01/display?to_ext=bigbed
-interactTrackHeight 300
-maxHeightPixels 300:40:20
-useScore 1
-
