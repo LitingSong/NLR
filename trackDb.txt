@@ -195,18 +195,6 @@ autoScale off
 viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
-track InteractTrack1
-type bigInteract
-visibility full
-shortLabel scE2G1
-longLabel scE2G1
-itemRgb on
-scoreMin 175
-maxHeightPixels 300:40:20
-interactDirectional true
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b46710354fedc6f8/display?to_ext=bigbed
-
-
 track InteractTrack
 type bigInteract
 visibility full
@@ -216,4 +204,6 @@ itemRgb on
 scoreMin 175
 maxHeightPixels 300:40:20
 interactDirectional true
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fb736df4c36ea0f9/display?to_ext=bigbed
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b46710354fedc6f8/display?to_ext=bigbed
+
+
