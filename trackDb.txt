@@ -13,8 +13,8 @@ longLabel T/NK
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213534989da7da1f2c8c/display?to_ext=bigwig
 color 219,219,141
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track SMC
@@ -24,8 +24,8 @@ longLabel Smooth Muscle Cells
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352723ff967c5fadc7/display?to_ext=bigwig
 color 247,182,210
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track TypeIIMyocytes
@@ -35,8 +35,8 @@ longLabel Type II Myocytes
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a2c9fd8621d2a502/display?to_ext=bigwig
 color 23,190,207
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track TypeIMyocytes
@@ -46,8 +46,8 @@ longLabel Type I Myocytes
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f72056d873be4dc2/display?to_ext=bigwig
 color 159,218,229
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Pericytes
@@ -57,8 +57,8 @@ longLabel Pericytes
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213577e1a2e3d8cf99ba/display?to_ext=bigwig
 color 196,156,148
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Myosatellitecells
@@ -68,8 +68,8 @@ longLabel Myosatellite cells
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721353cb563c92228ef42/display?to_ext=bigwig
 color 198,176,213
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Mesothelialcells
@@ -79,8 +79,8 @@ longLabel Mesothelial cells
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213555833890d9bb333d/display?to_ext=bigwig
 color 255,152,150
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 
@@ -91,8 +91,8 @@ longLabel Hepatocytes
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c4214010ac476105/display?to_ext=bigwig
 color 173,73,74
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Hepaticstellatecells
@@ -102,8 +102,8 @@ longLabel Hepatic stellate cells
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213527deb4aa7d6688d2/display?to_ext=bigwig
 color 188,189,34
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Fibroblasts
@@ -113,8 +113,8 @@ longLabel Fibroblasts
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c7ce35283b19e766/display?to_ext=bigwig
 color 140,86,75
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track FAP
@@ -124,8 +124,8 @@ longLabel FAP
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213507a2899637bf506e/display?to_ext=bigwig
 color 227,119,194
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Endothelialcells
@@ -135,8 +135,8 @@ longLabel Endothelial cells
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d92cf88ec1c76312/display?to_ext=bigwig
 color 148,103,189
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Cholangiocyte
@@ -146,8 +146,8 @@ longLabel Cholangiocyte
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359279ead068c5f17b/display?to_ext=bigwig
 color 214,39,40
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track B/plasmacells
@@ -157,8 +157,8 @@ longLabel B/plasma cells
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c72524bc9afdf93b/display?to_ext=bigwig
 color 44,160,44
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Adipocytes
@@ -168,8 +168,8 @@ longLabel Adipocytes
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354ac962f1d6248f31/display?to_ext=bigwig
 color 255,127,14
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Adipocyteprogenitors
@@ -179,8 +179,8 @@ longLabel Adipocyte progenitors
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359086b726e199bd6f/display?to_ext=bigwig
 color 31,119,180
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 
@@ -191,8 +191,8 @@ longLabel Macrophage
 visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350bcde5f51a24089b/display?to_ext=bigwig
 color 153,223,138
-autoScale on
-autoScaleGroup unifiedGroup
+autoScale off
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track InteractTrack
