@@ -205,5 +205,3 @@ scoreMin 175
 maxHeightPixels 300:40:20
 interactDirectional true
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b46710354fedc6f8/display?to_ext=bigbed
-
-
