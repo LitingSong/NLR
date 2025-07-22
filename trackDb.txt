@@ -14,7 +14,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213534989da7da1f2c8c/display?to_ext=bigwig
 color 219,219,141
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track SMC
@@ -25,7 +25,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352723ff967c5fadc7/display?to_ext=bigwig
 color 247,182,210
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track TypeIIMyocytes
@@ -36,7 +36,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a2c9fd8621d2a502/display?to_ext=bigwig
 color 23,190,207
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track TypeIMyocytes
@@ -47,7 +47,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f72056d873be4dc2/display?to_ext=bigwig
 color 159,218,229
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Pericytes
@@ -58,7 +58,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213577e1a2e3d8cf99ba/display?to_ext=bigwig
 color 196,156,148
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Myosatellitecells
@@ -69,7 +69,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721353cb563c92228ef42/display?to_ext=bigwig
 color 198,176,213
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Mesothelialcells
@@ -80,7 +80,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213555833890d9bb333d/display?to_ext=bigwig
 color 255,152,150
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 
@@ -92,7 +92,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c4214010ac476105/display?to_ext=bigwig
 color 173,73,74
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Hepaticstellatecells
@@ -103,7 +103,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213527deb4aa7d6688d2/display?to_ext=bigwig
 color 188,189,34
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Fibroblasts
@@ -114,7 +114,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c7ce35283b19e766/display?to_ext=bigwig
 color 140,86,75
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track FAP
@@ -125,7 +125,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213507a2899637bf506e/display?to_ext=bigwig
 color 227,119,194
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Endothelialcells
@@ -136,7 +136,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d92cf88ec1c76312/display?to_ext=bigwig
 color 148,103,189
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Cholangiocyte
@@ -147,7 +147,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359279ead068c5f17b/display?to_ext=bigwig
 color 214,39,40
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track B/plasmacells
@@ -158,7 +158,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c72524bc9afdf93b/display?to_ext=bigwig
 color 44,160,44
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Adipocytes
@@ -169,7 +169,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354ac962f1d6248f31/display?to_ext=bigwig
 color 255,127,14
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track Adipocyteprogenitors
@@ -180,7 +180,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359086b726e199bd6f/display?to_ext=bigwig
 color 31,119,180
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 
@@ -192,7 +192,7 @@ visibility full
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350bcde5f51a24089b/display?to_ext=bigwig
 color 153,223,138
 autoScale off
-viewLimits 0:1
+viewLimits 0:0.3
 maxHeightPixels 100:20:20
 
 track InteractTrack1
