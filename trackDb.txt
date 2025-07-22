@@ -203,6 +203,7 @@ longLabel scE2G1
 itemRgb on
 scoreMin 175
 maxHeightPixels 300:40:20
+interactDirectional=true
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b46710354fedc6f8/display?to_ext=bigbed
 
 
@@ -214,4 +215,5 @@ longLabel scE2G
 itemRgb on
 scoreMin 175
 maxHeightPixels 300:40:20
+interactDirectional=true
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fb736df4c36ea0f9/display?to_ext=bigbed
